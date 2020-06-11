@@ -98,15 +98,15 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(88, 157);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(113, 13);
+            this.label2.Size = new System.Drawing.Size(119, 13);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Įrašykite bilieto tipo Nr.";
+            this.label2.Text = "Įrašykite bilieto tipą (Nr.)";
             // 
             // tb_skaicius
             // 
             this.tb_skaicius.Location = new System.Drawing.Point(207, 154);
             this.tb_skaicius.Name = "tb_skaicius";
-            this.tb_skaicius.Size = new System.Drawing.Size(53, 20);
+            this.tb_skaicius.Size = new System.Drawing.Size(61, 20);
             this.tb_skaicius.TabIndex = 6;
             // 
             // btn_sukurti
@@ -173,7 +173,7 @@
             this.Controls.Add(this.tb_bilietai);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Bilietai";
             this.ResumeLayout(false);
             this.PerformLayout();
 
